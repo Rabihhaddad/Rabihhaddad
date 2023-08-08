@@ -7,11 +7,23 @@
 - <b>VPC Configuration</b>
   - Creating a Multi-Region Network with VPC Peering 
   - VPC Flow Logs for Network Monitoring
+  - Troubleshooting AWS Network Connectivity
+- <b>IAM roles and policies</b>
+  - Using EC2 Roles and Instance Profiles in AWS
 - <b>Databases</b>
+  - Deploy an Amazon RDS Multi-AZ and Read Replica in AWS
+  - Loading Data into a Redshift Cluster
+  - Querying Data in Amazon S3 with Amazon Athena
 - <b>Serverless</b>
+  - Triggering AWS Lambda from Amazon SQS
+  - Building a Serverless Application using Step Functions, API Gateway, Lambda, and S3
+- <b>Monitoring</b>
+  - Using CloudWatch for Resource Monitoring
 - <b>Containers</b>
 - <b>Cloud Formation</b>
+  - Setting Up AWS CloudFront as an HTTPS Endpoint for S3
 - <b>Disaster Recovery</b>
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="RabihHaddad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
