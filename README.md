@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rabih! <br/><a href="https://github.com/Rabihhaddad">Cloud Architect</a>, <a href="https://linkedin.com/rabih-haddad-738219a4">Pre-Sales Technical Consultant</a>
+<h1>Hi, I'm Rabih! <br/><a href="https://github.com/Rabihhaddad">Cloud Architect</a>, <a href="https://www.linkedin.com/rabih-haddad-738219a4//">Pre-Sales Technical Consultant</a>
 
 <h2>👨‍💻 AWS Projects:</h2>
 
@@ -28,7 +28,7 @@
 
 [<img align="left" alt="RabihHaddad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: www.linkedin.com/in/rabih-haddad-738219a4
+[linkedin]: [www.linkedin.com/in/rabih-haddad-738219a4](https://www.linkedin.com/rabih-haddad-738219a4/)
 
 
 <!--
