@@ -1,47 +1,29 @@
-<h1>Hi, I'm Rob! <br/><a href="https://github.com/Rabihhaddad">Cloud Architect</a>, <a href="https://www.linkedin.com/rabih-haddad-738219a4//">Pre-Sales Technical Consultant</a>
+# Hi, I'm Rob!
+## <span style="color: #0969da;">Solutions Engineer | Technical Account Manager | Cloud Architect</span>
 
-<h2>👨‍💻 AWS Projects:</h2>
+Bridging complex L1-L3 infrastructure, IP Transit, and Cloud Architecture with enterprise business outcomes.
 
-- <b>S3</b>
-  - Static Website Hosting
-- <b>VPC Configuration</b>
-  - Creating a Multi-Region Network with VPC Peering 
-  - VPC Flow Logs for Network Monitoring
-  - Troubleshooting AWS Network Connectivity
-- <b>IAM roles and policies</b>
-  - Using EC2 Roles and Instance Profiles in AWS
-- <b>Databases</b>
-  - Deploy an Amazon RDS Multi-AZ and Read Replica in AWS
-  - Loading Data into a Redshift Cluster
-  - Querying Data in Amazon S3 with Amazon Athena
-- <b>Serverless</b>
-  - Triggering AWS Lambda from Amazon SQS
-  - Building a Serverless Application using Step Functions, API Gateway, Lambda, and S3
-- <b>Monitoring</b>
-  - Using CloudWatch for Resource Monitoring
-- <b>Containers</b>
-- <b>Cloud Formation</b>
-  - Setting Up AWS CloudFront as an HTTPS Endpoint for S3
-- <b>Disaster Recovery</b>
+### 🚀 Featured Architecture & Solutions:
 
-<h2> 🤳 Connect with me:</h2>
+* **Global Hyperscale Topology Visualizer**
+  * **Objective:** A geospatial intelligence tool built to visualize Layer 1 physical subsea cable infrastructure against Layer 3 BGP routing. Designed as a pre-sales asset to assist enterprise clients with latency optimization and global redundancy planning.
+  * **Tech Stack:** Python, PeeringDB API, Geospatial Data Integration, 3D Rendering.
+  * **Links:** [Watch the Architecture Walkthrough](#) | [View Live Demo](#) *(Replace with your links)*
 
-[<img align="left" alt="RabihHaddad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+* **PacketRob ASN: Real-Time RIR Monitoring**
+  * **Objective:** Architected and deployed a highly compliant, serverless AWS application to track and analyze regional internet registry (RIR) allocations for actionable market intelligence.
+  * **Architecture:** Decoupled public routing indices from proprietary data to ensure strict adherence to anti-scraping policies and Acceptable Use Policies (AUP). 
+  * **Tech Stack:** AWS (Lambda, DynamoDB, Route 53, SNS), Python (Boto3), Intersection Observer UI.
+  * **Links:** [Visit PacketRobASN.com](#) *(Replace with your link)*
 
-[linkedin]: [www.linkedin.com/in/rabih-haddad-738219a4](https://www.linkedin.com/rabih-haddad-738219a4/)
+### 👨‍💻 Infrastructure & Virtualization Lab:
+* **Hypervisor & Containerization:** Architect and maintain a robust home lab environment for continuous deployment and testing using KVM, Docker, and VMware Workstation Pro.
+* **Systems Engineering:** Extensive experience configuring Linux distributions (Ubuntu, Pop!_OS) and managing bare-metal dual-boot environments for high-performance computing.
 
+---
 
-<!--
-**Rabihhaddad/Rabihhaddad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤳 Connect with me:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/rob-haddad-738219a4/ target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
