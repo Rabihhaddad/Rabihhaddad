@@ -24,6 +24,4 @@ Bridging complex L1-L3 infrastructure, IP Transit, and Cloud Architecture with e
 
 ### 🤳 Connect with me:
 
-<a href="https://www.linkedin.com/in/rob-haddad-738219a4/ target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rob-haddad-738219a4/)
